@@ -1,4 +1,5 @@
 # fisrt_craigslist_spider
+craiglist_jobfinding_spider could crawling mutiple pages from craiglist
 Hello world!
 
 
