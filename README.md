@@ -1,5 +1,7 @@
-# fisrt_craigslist_spider
-craiglist_jobfinding_spider could crawling mutiple pages from craiglist
+# fisrt_craigslist_spider 
+craiglist_jobfinding_spider extract job informations from mutiple pages in craiglist
+
+
 Hello world!
 
 
